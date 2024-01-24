@@ -28,4 +28,4 @@ Result achieved by Logistic Regression model on test dataset:
 Accuracy score of Test data: 0.9390862944162437
 
 ## Conclusion:
-As the data was highly imbalanced hence under sampling is used to solve the imbalance dataset. Logistic Regression model gives almost perfect accuracy in both trainning data and Test data. 
+As the data was highly imbalanced hence under sampling is used to solve the imbalance dataset. Logistic Regression model gives almost perfect accuracy in both training data and Test data. 
